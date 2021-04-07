@@ -9,3 +9,4 @@
 * Harley Quinn
 * Dessad
 * Mr Frío
+* Black Mantha
