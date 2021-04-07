@@ -4,4 +4,6 @@
 * Joker
 * Gatubela
 * Hiedra Venenosa
+* Darkseid
+* Deathstroke
 * Harley Quinn
