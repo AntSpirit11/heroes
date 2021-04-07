@@ -7,3 +7,5 @@
 * Darkseid
 * Deathstroke
 * Harley Quinn
+* Dessad
+* Mr Frío
