@@ -9,3 +9,4 @@
 7. Cooperar con la reina de las amazonas
 8. Solicitar un prestamo de dinero a Batman, para comprar equipo
 9. Sacar información secreta del Joker con Harley Quinn
+10. Salvar las personas secuestradas por Joker
